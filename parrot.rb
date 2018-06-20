@@ -6,6 +6,6 @@ def parrot
 end
 
 def parrot_call
-  noise
   puts noise
+  noise
 end
